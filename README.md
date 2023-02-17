@@ -219,3 +219,6 @@ that I can use it in future editions of the book.)
 - §16.11.5: Sharing Typed Arrays Between Threads
     - [incorrect parallel increment](ch16/parallelIncrement.js)
     - [atomic increment](ch16/atomicIncrement.js)
+
+
+Note that: I (Chau) reuse the codes from the book and take some notes for my learning process. 
